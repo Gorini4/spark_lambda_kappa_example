@@ -1,0 +1,4 @@
+notebooks/spark-warehouse
+notebooks/checkpoints
+notebooks/tables
+notebooks/.ipynb_checkpoints
